@@ -32,7 +32,8 @@ if you are using default bash. Use ```~/.bashrc``` instead of ```~/.zshrc```
 alias godmode="sudo su"
 alias offG="exit"
 alias saupd="sudo apt update"
-alias saupg="sudo apt upgrade="
+alias saupg="sudo apt upgrade"
+alias sain="sudo apt install"
 alias rf="sudo rm -r"
 
 # Project
