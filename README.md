@@ -28,6 +28,8 @@ if you are using oh-my-zsh.
 if you are using default bash. Use ```~/.bashrc``` instead of ```~/.zshrc```
 
 ```bash
+
+# Terminal Aliases by Lynicis
 # General
 alias godmode="sudo su"
 alias offG="exit"
@@ -39,10 +41,17 @@ alias rf="sudo rm -r"
 # Project
 # for yarn
 alias babe="yarn add"
+alias babeD="yarn add -D"
 alias upBabe="yarn run start"
 alias buildBabe="yarn run build"
 alias devBabe="yarn run dev"
-alias insBabe="yarn install"
+
+# for npm
+alias babe="npm i"
+alias babeD="npm i -d"
+alias upBabe="npm run start"
+alias buildBabe="npm run build"
+alias devBabe="npm run dev"
 ```
 
 ### Why is there no ```l``` or etc?
