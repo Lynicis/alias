@@ -37,10 +37,12 @@ alias sain="sudo apt install"
 alias rf="sudo rm -r"
 
 # Project
+# for yarn
 alias babe="yarn add"
 alias upBabe="yarn run start"
 alias buildBabe="yarn run build"
 alias devBabe="yarn run dev"
+alias insBabe="yarn install"
 ```
 
 ### Why is there no ```l``` or etc?
