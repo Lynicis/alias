@@ -3,6 +3,9 @@
 ### How to use?
 You can copy want alias and use this on terminal.
 or You can clone this repo but don't forget global variable and features on your ```xrc``` file.
+You can edit ```xrc``` file for npm or yarn. Keep the part you will use, delete the other part.
+
+
 You can have a ```xrc``` file and cloned file be append like this.
 
 ```bash
