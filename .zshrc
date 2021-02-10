@@ -10,12 +10,14 @@ alias rf="sudo rm -r"
 # Project
 # for yarn
 alias babe="yarn add"
+alias babeD="yarn add -D"
 alias upBabe="yarn run start"
 alias buildBabe="yarn run build"
 alias devBabe="yarn run dev"
 
 # for npm
-alias babe="yarn add"
-alias upBabe="yarn run start"
-alias buildBabe="yarn run build"
-alias devBabe="yarn run dev"
+alias babe="npm i"
+alias babeD="npm i -g"
+alias upBabe="npm run start"
+alias buildBabe="npm run build"
+alias devBabe="npm run dev"
