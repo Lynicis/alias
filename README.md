@@ -3,6 +3,12 @@
 ### How to use?
 You can copy want alias and use this on terminal.
 or You can clone this repo but don't forget global variable and features on your ```xrc``` file.
+You can have a ```xrc``` file and cloned file be append like this.
+
+```bash
+-> cat thisrc >> urc
+```
+
 
 if you are using oh-my-zsh.
 
