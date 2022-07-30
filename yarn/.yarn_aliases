@@ -1,0 +1,6 @@
+alias ya="yarn add"
+alias yad="yarn add -D"
+alias ycln="rm -rf node_modules && yarn install"
+alias yrs="yarn run start"
+alias yrb="yarn run build"
+alias yrd="yarn run dev"

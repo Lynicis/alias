@@ -1,0 +1,6 @@
+alias ni="npm i"
+alias nid="npm i -d"
+alias ncln="rm -rf node_modules && npm i"
+alias nrs="npm run start"
+alias nrb="npm run build"
+alias nrd="npm run dev"

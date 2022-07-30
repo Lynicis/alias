@@ -1,0 +1,16 @@
+### general ###
+alias ssu ="sudo su"
+alias rmrf="sudo rm -rf"
+alias l="ls -la"
+
+
+### brew ###
+alias bud="brew update"
+alias bug="brew upgrade"
+alias bi="brew install"
+alias bs="brew search"
+
+### apt package manager ###
+alias saupd="sudo apt update"
+alias saupg="sudo apt upgrade"
+alias sain="sudo apt install"
