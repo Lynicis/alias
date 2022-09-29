@@ -1,8 +1,7 @@
 ### general ###
-alias ssu ="sudo su"
+alias s="sudo"
 alias rmrf="sudo rm -rf"
 alias l="ls -la"
-
 
 ### brew ###
 alias bud="brew update"
