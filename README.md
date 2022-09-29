@@ -9,11 +9,6 @@ for one alias script;
 [ -f ~/.flutter_aliases ] && source ~/.flutter_aliases
 ```
 
-for all of em;
-```bash 
-[ -f ~/alias/.*_aliases ] && source ~/alias/.*_aliases
-```
-
 then `source ~/.zshrc|.bashrc` or close and open again terminal
 
 taa taa 🎉 ready for usage 🤟🏻
