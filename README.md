@@ -4,7 +4,6 @@
 
 Choose one or clone repository then adding to `.zshrc` or `.bashrc` this following line;
 
-for one alias script;
 ```bash
 [ -f ~/.flutter_aliases ] && source ~/.flutter_aliases
 ```
